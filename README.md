@@ -89,7 +89,7 @@ Returns_Performance_Employee_Insights/
 ## 🙌 Author
 
 **Abdul Mossawer**  
-Full Stack Developer | Data Enthusiast  
+Data Enthusiast  
 
 📌 [LinkedIn](https://www.linkedin.com/in/analystmossawer/) | [GitHub](https://github.com/abdulmossawer)
 
